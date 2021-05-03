@@ -13,4 +13,4 @@ Expiration date:
 CVV2:
 
 Credit Card Number Generator Fake
-If you want to create similar credit card numbers for visa or master card, you can use the tool we share with you below. THIS VEHICLE CREATES RANDOM NUMBERS. THERE IS NO OTHER WITH REAL CREDIT CARD OR NUMBERS.
+If you want to create similar credit card numbers for visa or master card, you can use the tool we share with you below. THIS TOOL CREATES RANDOM NUMBERS. THERE IS NO OTHER WITH REAL CREDIT CARD OR NUMBERS.
