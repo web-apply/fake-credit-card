@@ -14,3 +14,10 @@ CVV2:
 
 Credit Card Number Generator Fake
 If you want to create similar credit card numbers for visa or master card, you can use the tool we share with you below. THIS TOOL CREATES RANDOM NUMBERS. THERE IS NO OTHER WITH REAL CREDIT CARD OR NUMBERS.
+
+Fake credit cards and virtual cards are different concepts. Virtual cards are valid cards created from your bank accounts. You can set the limits and validity period of virtual cards as you wish. You can use these cards in any area where normal credit cards are used. A fake credit card is a completely different product. It is not valid and the information on it is fake.
+
+A virtual card has been developed for those who do not want to share their card information while making transactions over the Internet. Virtual cards contain different information than your real credit card. This information allows you to spend up to the limit you set, within the time period you set. Thus, the workplaces where you shop cannot learn your real card information.
+ 
+Fake or fake credit cards do not allow you to shop online. This information, which is produced according to a certain algorithm, is perceived as a credit card by shopping sites. However, when trying to get payment approval from the bank with this information, it is understood that the card information is invalid. Therefore, they cannot be traded.
+
